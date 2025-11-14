@@ -2,9 +2,9 @@
 A full-stack quiz app built using Spring Boot (backend) and React.js (frontend). It allows users to take category-based quizzes, view scores instantly, and provides admin controls to manage questions and categories.
 
 ## Author
-- Tarun Aggarwal
-- UID: 23BCS80342
-- Section: KRG_1A
+- Tejinderpal Singh
+- UID: 23BCS80343
+- Section: KRG_3A
 
 ## Project Structure
 project/<br/>
