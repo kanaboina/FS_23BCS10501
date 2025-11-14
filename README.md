@@ -1,5 +1,5 @@
-### Full Stack - Class Experiments, Modules and Final Project
+# Full Stack
 
-> UID - <b>23BCS10087</b><br/>
-> Name - <b>Vanshit</b><br/>
-> Section - <b>KRG 1 A</b>
+> **UID: 23BCS80342** <br/>
+> **Name: Tarun Aggarwal** <br/>
+> **Section: 23BCS_KRG-1-a**
